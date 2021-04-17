@@ -11,9 +11,13 @@ There are four parts of this project.
 - Part 3 : https://github.com/dennisorellana2/Capstone_Project/blob/main/Data_670_Capstone_Project_Part_3.ipynb
 - Part 4 : https://github.com/dennisorellana2/Capstone_Project/blob/main/data670_capstoneproject_part4.ipynb
 
-## Code and Resources Used
+## Code Used
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+
+Packages: pandas, numpy, seaborn, matpllib, klib, lazy predict, and scikit-learn
+
 
 <img align="left" alt="jupyter-notebook" width="26px" src="https://avatars1.githubusercontent.com/u/7388996?s=200&v=4" />
 
@@ -23,7 +27,20 @@ There are four parts of this project.
 
 <img align="left" alt="Anaconda" width="26px" src="https://avatars2.githubusercontent.com/u/1158637?s=200&v=4g" />
 
+<br />
 
+## Resources Used
+• https://github.com/codebasics/py/blob/master/ML/12_KFold_Cross_Validation/12_k_fold.ipynb
+
+• https://github.com/justmarkham/scikit-learn-videos/blob/master/07_cross_validation.ipynb
+
+• https://www.kaggle.com/shivanirana63/fake-job-prediction-ensemble-modeling
+
+• https://github.com/Suji04/Contraceptive-Method-prediction/blob/master/classifier.py
+
+• https://github.com/dataprofessor/code/blob/master/python/ROC_curve.ipynb
+
+• https://regenerativetoday.com/logistic-regression-with-python-using-an-optimization-function/
 
 <br />
 
