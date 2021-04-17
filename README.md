@@ -1,4 +1,4 @@
-# Capstone_Project
+# Capstone Project
 
 ### Academic Machine Learning project in Python
 
