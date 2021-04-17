@@ -33,5 +33,8 @@ There are four parts of this project.
 ![](ROC%20Curve%20Plot.png)
 
 ![](Feature%20Correlation%20Plot.png)
+
+![](Top%20five%20fraudulent%20job%20title.PNG)
+
 ## Overall
 The number one fraudulent job postion in 2019 is “Cruse Staffed Wanted *URGENT*” in the United States and contains “See job description” which is highly likely a fraudulent job.
