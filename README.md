@@ -11,7 +11,7 @@ There are four parts of this project.
 - Part 3 : https://github.com/dennisorellana2/Capstone_Project/blob/main/Data_670_Capstone_Project_Part_3.ipynb
 - Part 4 : https://github.com/dennisorellana2/Capstone_Project/blob/main/data670_capstoneproject_part4.ipynb
 
-## Code Used
+## Code and Tools Used
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
