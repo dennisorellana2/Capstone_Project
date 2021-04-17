@@ -4,6 +4,13 @@
 
 The data analytics problem that I am analyzing is predictive of any fake job posting in three job boards.
 
+There are four parts of this project.
+
+- Part 1 : https://github.com/dennisorellana2/Capstone_Project/blob/main/Data670_Capstone_part1_Combine%20Datasets.ipynb
+- Part 2 : https://github.com/dennisorellana2/Capstone_Project/blob/main/data670_capstoneproject_part_2.ipynb
+- Part 3 : https://github.com/dennisorellana2/Capstone_Project/blob/main/Data_670_Capstone_Project_Part_3.ipynb
+- Part 4 : https://github.com/dennisorellana2/Capstone_Project/blob/main/data670_capstoneproject_part4.ipynb
+
 ## Code and Resources Used
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
@@ -20,5 +27,11 @@ The data analytics problem that I am analyzing is predictive of any fake job pos
 
 <br />
 
+## Images
+![](Comparing%20Model%20List.png)
 
-Overall a job post in 2019 is “Cruse Staffed Wanted *URGENT*” in the United States and contains “See job description” which is highly likely a fraudulent job.
+![](ROC%20Curve%20Plot.png)
+
+![](Feature%20Correlation%20Plot.png)
+## Overall
+A job post in 2019 is “Cruse Staffed Wanted *URGENT*” in the United States and contains “See job description” which is highly likely a fraudulent job.
