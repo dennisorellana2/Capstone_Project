@@ -42,6 +42,10 @@ Packages: pandas, numpy, seaborn, matpllib, klib, lazy predict, and scikit-learn
 
 • https://regenerativetoday.com/logistic-regression-with-python-using-an-optimization-function/
 
+• https://pypi.org/project/lazypredict/
+
+• https://klib.readthedocs.io/en/latest/
+
 <br />
 
 ## Images
