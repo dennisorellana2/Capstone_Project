@@ -2,7 +2,7 @@
 
 ### Academic Machine Learning project in Python
 
-The data analytics problem that I am analyzing is finding the top fraudulent job postion from three job boards datasets in 2019.
+The data analytics problem that I am analyzing is finding the top fraudulent job position from three job boards datasets in 2019.
 
 There are four parts of this project.
 
