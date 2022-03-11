@@ -58,4 +58,4 @@ Packages: pandas, numpy, seaborn, matpllib, klib, lazy predict, and scikit-learn
 ![](Top%20five%20fraudulent%20job%20title.PNG)
 
 ## Overall
-The number one fraudulent job postion in 2019 is “Cruse Staffed Wanted *URGENT*” in the United States and contains “See job description” which is highly likely a fraudulent job.
+The number one fraudulent job position in 2019 is “Cruse Staffed Wanted *URGENT*” in the United States and contains “See job description” which is highly likely a fraudulent job.
